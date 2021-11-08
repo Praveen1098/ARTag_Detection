@@ -27,7 +27,7 @@ point of reference in the real world. Our implementation involves 2 stages:
     cap = cv2.VideoCapture('Data/Tag0.mp4')
     ```
     
-- Open terminal run
+- Open terminal and run
 
   ```
   python3 ARdetectTrack.py
