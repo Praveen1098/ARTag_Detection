@@ -22,7 +22,7 @@ point of reference in the real world. Our implementation involves 2 stages:
 - Run the python scripts in the current directory which contains all the code.
 - The script runs with one of the sample input "Tag0.mp4" placed in the Data folder, replace it with your own input.
   - Place the relative path of the input you want to run in,
-  - 
+   
     ```
     cap = cv2.VideoCapture('Data/Tag0.mp4')
     ```
